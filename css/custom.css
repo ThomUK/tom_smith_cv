@@ -1,0 +1,15 @@
+
+:root {
+    --sidebar-width: 14rem
+}
+
+.icon_pad {
+    padding-right: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.place, .location {
+    margin-top: 0.2rem;
+    margin-bottom: 0.5rem;
+    color: gray;
+}

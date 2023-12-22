@@ -1,7 +1,11 @@
 ---
 title: "Tom Smith CV"
 author: "Tom Smith"
-output: pagedown::html_resume
+output: 
+  pagedown::html_resume:
+    css: 
+    - "css/custom.css"
+    - resume
 ---
 
 ```{r setup, include=FALSE}
@@ -16,9 +20,9 @@ Picture, etc.
 Contact info
 ------------------------------------
 
-<i class="fa fa-envelope"></i> [tomsmith_uk@hotmail.com](tomsmith_uk@hotmail.com)  
-<i class="fa fa-github"></i> [github.com/ThomUK](https://github.com/ThomUK)  
-<i class="fa fa-linkedin"></i> [linkedin.com/tomsmith-uk](https://www.linkedin.com/in/tomsmith-uk/)  
+<i class="fa fa-envelope icon_pad"></i> [tomsmith_uk@hotmail.com](tomsmith_uk@hotmail.com)  
+<i class="fa fa-linkedin icon_pad"></i> [linkedin.com/tomsmith-uk](https://www.linkedin.com/in/tomsmith-uk/)  
+<i class="fa fa-github icon_pad"></i> [github.com/ThomUK](https://github.com/ThomUK)  
 
 
 Skills
