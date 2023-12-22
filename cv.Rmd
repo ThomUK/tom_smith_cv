@@ -37,7 +37,7 @@ Main
 Tom Smith {#title}
 ------------------------------------
 
-Arbitrary content.
+Experienced leader
 
 Education {data-icon=graduation-cap}
 ------------------------------------
