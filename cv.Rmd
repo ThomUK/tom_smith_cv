@@ -34,7 +34,7 @@ A footer in the sidebar.
 Main
 ====================================
 
-Your Name {#title}
+Tom Smith {#title}
 ------------------------------------
 
 Arbitrary content.
