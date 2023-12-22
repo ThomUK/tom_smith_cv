@@ -16,9 +16,9 @@ Picture, etc.
 Contact info
 ------------------------------------
 
-- <i class="fa fa-envelope"></i> tomsmith_uk@hotmail.com
-- <i class="fa fa-github"></i> [github.com/ThomUK](https://github.com/ThomUK)
-- <i class="fa fa-linkedin"></i> [linkedin.com/tomsmith-uk](https://www.linkedin.com/in/tomsmith-uk/)
+<i class="fa fa-envelope"></i> [tomsmith_uk@hotmail.com](tomsmith_uk@hotmail.com)  
+<i class="fa fa-github"></i> [github.com/ThomUK](https://github.com/ThomUK)  
+<i class="fa fa-linkedin"></i> [linkedin.com/tomsmith-uk](https://www.linkedin.com/in/tomsmith-uk/)  
 
 
 phone number, ...
@@ -44,19 +44,139 @@ Tom Smith {#title}
 
 Experienced leader
 
+## Experience
+
+### Insight Manager
+
+Nottingham University Hospitals NHS Trust
+
+Nottingham, UK
+
+Present - Apr 2022
+
+Leading the analysis function in the Family Health division.  
+
+- Improving the quality, reproducibility, and timeliness of routine reporting
+- Team skills development, including the transition towards transparency and code-first analytical methods
+- Data literacy outreach, including training information customers in the interpretation of Statistical Process Control charts
+- Implemented a change of Electronic Patient Record system, maintaining business reporting and continuity of timeseries data throughout the changeover
+- Discrete Event Simulation of patient pathways to support improvement
+
+### Principal Analyst (Maternity Improvement)
+
+Nottingham University Hospitals NHS Trust
+
+Nottingham
+
+Dec 2020
+
+Developing analysis in support of the hospital's Maternity Improvement Programme.
+
+- Developed a reporting pipeline for clinical and management data
+- Implemented Statistical Process Control techniques to separate signals from noise
+- Enabled governance events to be confident in "single source of truth"
+- Improved engagement of the business with their data, through outreach and linked storytelling
+
+### Parent
+
+Home
+
+Nottingham
+
+Sep 2019
+
+Time at home with my young family.  COVID pandemic.  Decision to upskill in analytics.
+
+- Learned the "R" statistical programming language
+
+### UK Head of Quality
+
+Masonite International
+
+Barnsley
+
+Feb 2019
+
+- Implemented BI reporting of quality status for 7 manufacturing plants
+- Daily data to manufacturing cell level
+- Feedback on external and internal customer feedback, scrap, rework, and raw materials consumption
+- Supervised regulatory compliance, including ISO 9001:2015 validation
+
+### Technical Engineering Manager 
+
+Door-Stop International (part of the Masonite Group)
+
+Huthwaite
+
+Jan 2018
+
+Managing a technical team through daily operations, new product introduction, and capital investment planning
+
+### Continuous Improvement Champion
+
+Door-Stop International (part of the Masonite Group)
+
+Huthwaite
+
+Apr 2017
+
+### Business Transformation Coach
+
+Sharing In Growth UK (hosted by Rolls-Royce Plc)
+
+Derby
+
+Apr 2013
+
+Leading a cross-functional team of Supplier development engineers, Value engineers, Manufacturing engineers, and Purchasing specialists to deliver concentrated 4 year training and development programmes to UK Aerospace suppliers. 
+Sharing in Growth is an innovative and ambitious programme to raise the capability of UK Aerospace suppliers in order to share in the anticipated growth of this global market and other associated high value manufacturing sectors. The programme provides concentrated training and development aimed at driving competitive capability to tackle barriers to growth, boost exports and grow the number of high value jobs in the UK.
+
+### Lean Supplier Development leader
+
+Rolls-Royce Plc
+
+Derby
+
+Apr 2017 - Feb 2012
+
+> Developing strategic supplier capability to meet customer's current and future requirements (Quality, Delivery, Cost)
+> Diagnosing suppliers key opportunities for improvement, and developing project workstreams to deliver improvement
+> Consulting with supplier top management to agree one and three year development plans
+> Practical training and coaching of supplier shop-floor and management to deliver development
+> Accurately quantifying operational cost benefits of improvements, and agreeing benefit sharing with suppliers
+> Leading best-practice sharing between supplier groups
+
+### Senior Engineer (Supplier Production Management)
+
+Toyota Motor Europe
+
+Burnaston, Derby
+
+Jun 2006
+
+> Responsible for Tier 1 supplier production preparation, from draft drawing release through to full volume mass production. 
+> Specialising in BIW parts and processes, plastic injection moulding of interior and dashboard trim, and electrical & electronic parts. 
+> Maintaining close working relationships between Design, Quality, Production Control, Vehicle Planning, Purchasing, and Tier 1 suppliers. 
+> Using core Toyota tools (Toyota Way, PDCA, Practical Problem Solving, Toyota Business Practices, Genchi Genbutsu) to find facts at shop floor level, break down problems, find root causes, and agree and implement sustainable countermeasures. 
+> Lead mass production kaizen activity at Tier 1 suppliers. 
+> Consult with Tier 1 suppliers, achieving improved management capability through best-practice sharing and practical coaching.
+
 Education {data-icon=graduation-cap}
 ------------------------------------
 
+### Free Code Camp
+
+Full Stack Web Development Certification
+
+Online
+
+2017 - 2016
+
 ### University of Wales, Swansea
 
-Mechanical Engineering BEng (hons)
+BEng (hons) Mechanical Engineering
 
 Swansea
 
-1998 - 2002
+2002 - 1998
 
-Arbitrary content
-
-### University Two
-
-...
