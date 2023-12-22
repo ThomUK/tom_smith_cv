@@ -17,6 +17,7 @@ Contact info
 ------------------------------------
 
 - <i class="fa fa-envelope"></i> tomsmith_uk@hotmail.com
+- <i class="fa fa-github"></i> [github.com/ThomUK](https://github.com/ThomUK)
 
 phone number, ...
 
