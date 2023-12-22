@@ -16,7 +16,9 @@ Picture, etc.
 Contact info
 ------------------------------------
 
-Email, phone number, ...
+- <i class="fa fa-envelope"></i> tomsmith_uk@hotmail.com
+
+phone number, ...
 
 Skills
 ------------------------------------
