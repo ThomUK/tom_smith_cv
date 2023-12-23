@@ -64,7 +64,7 @@ Tom Smith {#title}
 
 ### Data-driven business intelligence and insight leader. I use modern technical tooling, and a career history of front-line operational and improvement experience, to find and present the important stories hidden in business data.
 
-## Experience
+## Experience {data-icon=briefcase}
 
 ### Insight Manager
 
@@ -189,6 +189,42 @@ Tier 1 supplier production preparation - from draft drawing release to full volu
 - Own production capacity confirmation, enabling fast vehicle launch ramp-up
 - Maintaining close working relationships between Design, Quality, Production Control, Vehicle Planning, Purchasing, and Tier 1 suppliers
 - Lead kaizen activity at Tier 1 suppliers 
+
+## Selected public work {data-icon=comments}
+
+### Conference Talk
+
+Beginner's guide to the R package {purrr}
+
+Online
+
+2023
+
+Video recording: <https://youtu.be/laKYVuElROs&t=2146>
+
+Slides: <https://thomuk.github.io/2023-NHSR-Conf-Presentation>
+
+### Conference Talk
+
+Introducing my {SPCreporter} R package
+
+Online
+
+2022
+
+Video recording: <https://youtu.be/fWYehE5U6Vs&t=2862>
+
+Slides: <https://thomuk.github.io/2022-NHSR-Conf-Presentation>
+
+### {NHSRplotthedots} R package author
+
+R package to create statistical process control charts at scale
+
+Online
+
+2021
+
+Repository: <https://nhs-r-community.github.io/NHSRplotthedots>
 
 Education {data-icon=graduation-cap}
 ------------------------------------

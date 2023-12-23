@@ -1,6 +1,7 @@
 
 :root {
-    --sidebar-width: 14rem
+    --sidebar-width: 14rem;
+    --sidebar-background-color: #e1f2ff;
 }
 
 .icon_pad {
