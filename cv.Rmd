@@ -30,7 +30,7 @@ Strategy development
 
 Customer communication and requirements planning
 
-Technical lead - connecting operational need with analytical detail as required
+Technical lead, connecting operational need with analytical detail as required
 
 Champion and trainer of modern reproducible analytical methods
 
