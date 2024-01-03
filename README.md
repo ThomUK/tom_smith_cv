@@ -1,2 +1,2 @@
 # tom_smith_cv
-Curriculum Vitae for Tom Smith
+[Tom Smith's Curriculum Vitae](thomuk.github.io/tom_smith_cv)
