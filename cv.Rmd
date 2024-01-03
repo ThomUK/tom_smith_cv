@@ -64,7 +64,7 @@ Tom Smith {#title}
 
 Nottingham University Hospitals NHS Trust
 
-Nottingham, UK
+Nottingham
 
 Present - Apr 2022
 
@@ -73,8 +73,8 @@ Leading the Business Intelligence (BI) & Analysis function in the Family Health 
 - Implemented BI improvements giving leaders timely & consistent access to visual performance indicators
 - Created productivity improvements to enable deep reporting with available resource
 - Developed team skills, including move towards collaborative and reproducible analytical methods
-- Built customer relationships to improve data literacy, including training on using Statistical Process Control charts
-- Ensured continuity of timeseries data during replacement of Electronic Patient Record system
+- Built customer relationships to improve data literacy, including training on using Statistical Process Control (SPC) charts
+- Ensured continuity of approx.100 timeseries metrics during replacement of complex Electronic Patient Record system
 - Discrete Event Simulation of patient pathways
 
 ### Principal Analyst (Maternity Improvement)
@@ -115,7 +115,7 @@ Feb 2019
 
 Led a team across 7 regional manufacturing facilities
 
-- Introduced daily BI reporting of quality status for key sites at prouct line and manufacturing cell level
+- Introduced daily BI reporting of quality status for key sites at product line and manufacturing cell level (PowerBI)
 - Managed internal & external customer feedback, scrap, rework, and raw materials consumption visibility
 - Supervised regulatory compliance, including ISO 9001:2015 validation
 
@@ -127,7 +127,7 @@ Huthwaite
 
 Jan 2018
 
-Managing a technical team through daily operations, new product introduction, and capital investment planning.
+Managed a technical team through daily operations, new product introduction, and capital investment planning.
 
 ### Continuous Improvement Champion
 
@@ -137,7 +137,7 @@ Huthwaite
 
 Apr 2017
 
-Focussing on quality and delivery improvement through an engaged shop floor.
+Enabled quality and delivery improvements through the use of data for problem solving, together with an engaged shop floor.
 
 ### Business Transformation Coach
 
@@ -150,9 +150,9 @@ Apr 2013
 Leading a cross-functional improvement team on behalf of the UK Government.
 Raising the capability of UK aerospace suppliers to capture growth of the aerospace market and other associated high value manufacturing sectors. 
 
-- Lead a team comprising Supplier development engineers, Value engineers, Manufacturing engineers, and Purchasing specialists
-- Design and deliver concentrated 4 year training and development programmes to UK Aerospace suppliers
-- Quantify financial benefit
+- Led a team comprising Supplier development engineers, Value engineers, Manufacturing engineers, and Purchasing specialists
+- Designed and delivered concentrated 4 year training and development programmes to UK Aerospace suppliers
+- Quantified financial benefit
 
 ### Lean Supplier Development leader
 
@@ -164,10 +164,10 @@ Apr 2017 - Feb 2012
 
 Developing strategic supplier capability to meet quality, deliver, and cost requirements.  
 
-- Diagnosing opportunities for improvement
-- Agreeing development plans with supplier top management
-- Practical coaching of supplier shop-floor and management to deliver improvements
-- Quantifying operational cost benefits
+- Diagnosed opportunities for improvement
+- Agreed development plans with supplier top management
+- Delivered practical coaching of shop-floor and management to achieve improvements
+- Quantified operational cost benefits
 
 ### Senior Engineer (Supplier Production Management)
 
@@ -180,9 +180,9 @@ Jun 2006
 Tier 1 supplier production preparation - from draft drawing release to full volume production.
 
 - Using core Toyota tools (Toyota Way, PDCA, Practical Problem Solving, Toyota Business Practices) to find facts at shop floor level, break down problems, find root causes, and agree and implement sustainable countermeasures 
-- Own production capacity confirmation, enabling fast vehicle launch ramp-up
-- Maintaining close working relationships between Design, Quality, Production Control, Vehicle Planning, Purchasing, and Tier 1 suppliers
-- Lead kaizen activity at Tier 1 suppliers 
+- Led production capacity confirmation, enabling fast vehicle launch ramp-up
+- Built close working relationships between Design, Quality, Production Control, Vehicle Planning, Purchasing, and Tier 1 suppliers
+- Led kaizen activity at Tier 1 suppliers 
 
 ## Selected public work {data-icon=comments}
 
@@ -212,7 +212,7 @@ Slides: <https://thomuk.github.io/2022-NHSR-Conf-Presentation>
 
 ### {NHSRplotthedots} R package author
 
-R package to create statistical process control charts at scale
+R package to create Statistical Process Control (SPC) charts at scale
 
 Online
 
