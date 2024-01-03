@@ -15,8 +15,6 @@ knitr::opts_chunk$set(echo = TRUE)
 Aside
 ====================================
 
-Picture, etc.
-
 Contact info
 ------------------------------------
 
@@ -28,20 +26,16 @@ Contact info
 Skills
 ------------------------------------
 
-Timeseries
+Strategy development
 
-- Statistical Process Control
-- CUSUM
-- Forecasting
+Customer communication and requirements planning
 
-Modelling
+Technical lead - connecting operational need with analytical detail as required
 
-- Discrete Event Simulation
+Champion and trainer of modern reproducible analytical methods
 
-Data Science
+Team leadership within complex organisations, using complex data sources  
 
-- Linear & logistic regression
-- 
 
 
 Disclaimer
