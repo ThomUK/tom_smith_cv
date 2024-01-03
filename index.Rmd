@@ -1,0 +1,241 @@
+---
+title: "Tom Smith CV"
+author: "Tom Smith"
+output: 
+  pagedown::html_resume:
+    css: 
+    - "css/custom.css"
+    - resume
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Aside
+====================================
+
+Contact info
+------------------------------------
+
+<i class="fa fa-envelope icon_pad"></i> [tomsmith_uk@hotmail.com](tomsmith_uk@hotmail.com)  
+<i class="fa fa-linkedin icon_pad"></i> [linkedin.com/tomsmith-uk](https://www.linkedin.com/in/tomsmith-uk/)  
+<i class="fa fa-github icon_pad"></i> [github.com/ThomUK](https://github.com/ThomUK)  
+
+
+Skills
+------------------------------------
+
+Strategy development
+
+Customer communication and requirements planning
+
+Technical lead, connecting operational need with analytical detail as required
+
+Champion and trainer of modern reproducible analytical methods
+
+Team leadership within complex organisations, using complex data sources  
+
+
+
+Disclaimer
+------------------------------------
+
+This CV was made with [R](https://www.r-project.org/)
+
+Source code here: 
+
+[github.com/ThomUK/tom_smith_cv](https://github.com/ThomUK/tom_smith_cv)
+
+Last updated: `r Sys.Date()`
+
+
+Main
+====================================
+
+Tom Smith {#title}
+------------------------------------
+
+### Data-driven business intelligence and insight leader. I use modern technical tooling, and a career history of front-line operational and improvement experience, to find and present the important stories hidden in business data.
+
+## Experience {data-icon=briefcase}
+
+### Insight Manager
+
+Nottingham University Hospitals NHS Trust
+
+Nottingham
+
+Present - Apr 2022
+
+Leading the Business Intelligence (BI) & Analysis function in the Family Health division, including Maternity, Neonatal, Children's Hospital, and Reproductive Health directorates.  
+
+- Implemented BI improvements giving leaders timely & consistent access to visual performance indicators
+- Created productivity improvements to enable deep reporting with available resource
+- Developed team skills, including move towards collaborative and reproducible analytical methods
+- Built customer relationships to improve data literacy, including training on using Statistical Process Control (SPC) charts
+- Ensured continuity of approx.100 timeseries metrics during replacement of complex Electronic Patient Record system
+- Discrete Event Simulation of patient pathways
+
+### Principal Analyst (Maternity Improvement)
+
+Nottingham University Hospitals NHS Trust
+
+Nottingham
+
+Dec 2020
+
+Developing analysis in support of the hospital's Maternity Improvement Programme.
+
+- Developed robust reporting pipelines for clinical and management data
+- Improved engagement of the business with their data through outreach and linked storytelling
+- Implemented Statistical Process Control techniques to separate signals from noise
+- Enabled governance processes to be confident of the quality and repeatability of reported information
+- Created new insights by combining datasets across sources
+
+### Paternity leave
+
+Home
+
+Nottingham
+
+Sep 2019
+
+Time at home with my young family, overlapping with the COVID pandemic.  Decision to upskill in analytics.
+
+- Learned the "R" statistical programming language
+
+### UK Head of Quality
+
+Masonite International
+
+Barnsley
+
+Feb 2019
+
+Led a team across 7 regional manufacturing facilities
+
+- Introduced daily BI reporting of quality status for key sites at product line and manufacturing cell level (PowerBI)
+- Managed internal & external customer feedback, scrap, rework, and raw materials consumption visibility
+- Supervised regulatory compliance, including ISO 9001:2015 validation
+
+### Technical Engineering Manager 
+
+Door-Stop International (part of Masonite)
+
+Huthwaite
+
+Jan 2018
+
+Managed a technical team through daily operations, new product introduction, and capital investment planning.
+
+### Continuous Improvement Champion
+
+Door-Stop International (part of Masonite)
+
+Huthwaite
+
+Apr 2017
+
+Enabled quality and delivery improvements through the use of data for problem solving, together with an engaged shop floor.
+
+### Business Transformation Coach
+
+Sharing In Growth UK (hosted by Rolls-Royce)
+
+Derby, London
+
+Apr 2013
+
+Leading a cross-functional improvement team on behalf of the UK Government.
+Raising the capability of UK aerospace suppliers to capture growth of the aerospace market and other associated high value manufacturing sectors. 
+
+- Led a team comprising Supplier development engineers, Value engineers, Manufacturing engineers, and Purchasing specialists
+- Designed and delivered concentrated 4 year training and development programmes to UK Aerospace suppliers
+- Quantified financial benefit
+
+### Lean Supplier Development leader
+
+Rolls-Royce Plc
+
+Derby, Paris
+
+Apr 2017 - Feb 2012
+
+Developing strategic supplier capability to meet quality, deliver, and cost requirements.  
+
+- Diagnosed opportunities for improvement
+- Agreed development plans with supplier top management
+- Delivered practical coaching of shop-floor and management to achieve improvements
+- Quantified operational cost benefits
+
+### Senior Engineer (Supplier Production Management)
+
+Toyota Motor Europe
+
+Derby
+
+Jun 2006
+
+Tier 1 supplier production preparation - from draft drawing release to full volume production.
+
+- Using core Toyota tools (Toyota Way, PDCA, Practical Problem Solving, Toyota Business Practices) to find facts at shop floor level, break down problems, find root causes, and agree and implement sustainable countermeasures 
+- Led production capacity confirmation, enabling fast vehicle launch ramp-up
+- Built close working relationships between Design, Quality, Production Control, Vehicle Planning, Purchasing, and Tier 1 suppliers
+- Led kaizen activity at Tier 1 suppliers 
+
+## Selected public work {data-icon=comments}
+
+### Conference Talk
+
+Beginner's guide to the R package {purrr}
+
+Online
+
+2023
+
+Video recording: <https://youtu.be/laKYVuElROs&t=2146>
+
+Slides: <https://thomuk.github.io/2023-NHSR-Conf-Presentation>
+
+### Conference Talk
+
+Introducing my {SPCreporter} R package
+
+Online
+
+2022
+
+Video recording: <https://youtu.be/fWYehE5U6Vs&t=2862>
+
+Slides: <https://thomuk.github.io/2022-NHSR-Conf-Presentation>
+
+### {NHSRplotthedots} R package author
+
+R package to create Statistical Process Control (SPC) charts at scale
+
+Online
+
+2021
+
+Repository: <https://nhs-r-community.github.io/NHSRplotthedots>
+
+Education {data-icon=graduation-cap}
+------------------------------------
+
+### Free Code Camp
+
+Full Stack Web Development Certification
+
+Online
+
+2017 - 2016
+
+### University of Wales, Swansea
+
+BEng (hons) Mechanical Engineering
+
+Swansea
+
+2002 - 1998
+
