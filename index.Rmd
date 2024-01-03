@@ -12,6 +12,9 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<!-- Make links open in new windows -->
+<base target="_blank">
+
 Aside
 ====================================
 
