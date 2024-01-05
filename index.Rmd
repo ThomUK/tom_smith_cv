@@ -6,6 +6,7 @@ output:
     css: 
     - "css/custom.css"
     - resume
+knit: pagedown::chrome_print
 ---
 
 ```{r setup, include=FALSE}
