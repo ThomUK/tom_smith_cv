@@ -64,13 +64,29 @@ Tom Smith {#title}
 
 ## Experience {data-icon=briefcase}
 
+### Head of Activity Analysis & Forecasting
+
+Nottingham University Hospitals NHS Trust
+
+Nottingham
+
+Present - Dec 2024
+
+Leading a team of data analysts and data scientists producing operationally impactful analysis to inform senior leadership decision-making.
+
+- Producing Demand and Capacity modelling methods, focusing on inpatient activity, beds, and operating theatres.
+- Developing modelling to support NUH's annual planning process, which seeks to balance patient activity, staff resource, and financial resource to arrive at achievable annual plan.
+- Developing waiting list descriptive and simulation work, including outreach with stakeholders to propose different ways to approach existing problems (eg. queuing theory, Discrete Event Simulation, and digital twins).
+- Developing capability for event-driven analytics, including by data-modelling and joining raw datasets which are not routinely used for decision-making.
+- Forecasting hospital occupancy over periods of discontinuity in patient and staff behaviour, such as holiday periods, and strike periods.
+
 ### Insight Manager
 
 Nottingham University Hospitals NHS Trust
 
 Nottingham
 
-Present - Apr 2022
+Apr 2022
 
 Leading the Business Intelligence (BI) & Analysis function in the Family Health division, including Maternity, Neonatal, Children's Hospital, and Reproductive Health directorates.  
 
