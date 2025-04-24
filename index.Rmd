@@ -206,6 +206,19 @@ Tier 1 supplier production preparation - from draft drawing release to full volu
 
 ## Selected public work {data-icon=comments}
 
+### Health & Care Analytics Conference Conference E-lab
+
+Anatomy of a waiting list  
+How well do we understand our waiting lists?
+
+Online
+
+2024
+
+Video recording: <https://youtu.be/3peqTEl_ZAQ?t=130>
+
+Package code: <https://github.com/nhs-r-community/NHSRwaitinglist>
+
 ### Conference Talk
 
 Beginner's guide to the R package {purrr}
@@ -232,7 +245,8 @@ Slides: <https://thomuk.github.io/2022-NHSR-Conf-Presentation>
 
 ### {NHSRplotthedots} R package author
 
-R package to create Statistical Process Control (SPC) charts at scale
+R package to create Statistical Process Control  
+(SPC) charts at scale
 
 Online
 
